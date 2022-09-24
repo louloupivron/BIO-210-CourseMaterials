@@ -10,4 +10,4 @@ sections:
   - title: Lecture
     file: docs/week_1
   - title: Notebook for Introduction to Python I
-    url: https://github.com/EPFL-BIO-210/BIO-210-CourseMaterials/blob/main/week_1.ipynb
+    url: https://github.com/EPFL-BIO-210/BIO-210-CourseMaterials/blob/main/notebooks/week_1.ipynb

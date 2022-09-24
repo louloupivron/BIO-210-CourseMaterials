@@ -1,3 +1,0 @@
-# Python Introduction I
-
-TBD

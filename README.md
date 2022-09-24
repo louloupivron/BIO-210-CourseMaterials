@@ -13,11 +13,11 @@ Link to the EPFL's Noto homepage: https://noto.epfl.ch
 |	          	|	Date	    |	Topic	|
 | :---        |    :---  |    :--- |
 |	0	|	19/09/2022	|	Public holiday	|
-|	1	|	26/09/2022	|	Python intro I	|
-|	2	|	03/10/2022	|	Python intro II	|
+|	1	|	26/09/2022	|	Python introduction I	|
+|	2	|	03/10/2022	|	Python introduction II	|
 |	3	|	10/10/2022	|	VS Code |
-|	4	|	17/10/2022	|	Git	|
-|	5	|	24/10/2022	|	Project intro	|
+|	4	|	17/10/2022	|	Git	and GitHub |
+|	5	|	24/10/2022	|	Project introduction	|
 |	6	|	31/10/2022	|	Functionify	|
 |	7	|	07/11/2022	|	Visualization and documentation	|
 |	8	|	14/11/2022	|	Unit-tests, functional tests	|
