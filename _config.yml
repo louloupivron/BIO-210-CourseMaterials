@@ -14,6 +14,6 @@ html:
     <div>Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.</div>
 
 repository:
-  url: https://github.com/EPFL-BIO-210
+  url: https://github.com/EPFL-BIO-210/BIO-210-CourseMaterials
   path_to_book: docs
   branch: main
