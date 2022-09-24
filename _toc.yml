@@ -5,7 +5,7 @@ title: BIO-210
 options:
   numbered: 1
 sections:
-- file: docs/week1
+- file: docs/week_1
   sections:
   - title: Lecture
     file: docs/week_1
