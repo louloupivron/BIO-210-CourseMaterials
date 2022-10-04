@@ -9,9 +9,16 @@ parts:
   chapters:
   - file: docs/week_1
     sections:
+    - title: week 1 - notebook
+      file: notebooks/week_1.ipynb
     - title: week 1 - notebook with solutions
       file: notebooks/week_1_solutions.ipynb
   - file: docs/week_2
     sections:
+    - title: week 3 - notebook
+      file: notebooks/week_2.ipynb
     - title: week 2 - notebook with solutions
       file: notebooks/week_2_solutions.ipynb
+  - file: docs/week_3
+    - title: week 3 - notebook
+      file: notebooks/week_3.ipynb
