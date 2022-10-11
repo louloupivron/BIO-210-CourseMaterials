@@ -48,7 +48,7 @@ Go in the folder in which you want to clone the class repository:
 
 Clone the class repository:
 
-`git clone https://github.com/amathislab/EPFL-BIO-210.git`
+`git clone https://github.com/EPFL-BIO-210/BIO-210-CourseMaterials.git`
 
 
 ## Anaconda
