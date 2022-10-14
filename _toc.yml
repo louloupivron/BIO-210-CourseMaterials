@@ -25,3 +25,4 @@ parts:
       file: notebooks/week_3.ipynb
     - title: week 3 - notebook with solutions
       file: notebooks/week_3_solutions.ipynb
+  - file: docs/week_4
