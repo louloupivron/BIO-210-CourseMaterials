@@ -17,3 +17,7 @@ repository:
   url: https://github.com/EPFL-BIO-210/BIO-210-CourseMaterials
   path_to_book: docs
   branch: main
+
+sphinx:
+  config:
+    html_extra_path: ["problem_sets"]
