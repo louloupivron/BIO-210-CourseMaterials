@@ -28,3 +28,5 @@ parts:
   - file: docs/week_4
     sections:
     - file: docs/week_4_git_cheatsheet
+  - file: docs/week_5
+
