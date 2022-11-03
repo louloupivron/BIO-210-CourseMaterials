@@ -20,4 +20,4 @@ repository:
 
 sphinx:
   config:
-    html_extra_path: ["problem_sets"]
+    html_extra_path: ["problem_sets", "docs/images"]
